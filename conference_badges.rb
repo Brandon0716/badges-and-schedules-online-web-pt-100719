@@ -8,3 +8,4 @@ def batch_badge_creator(names)
     new_array.push(badge_maker(names))
   end
   return new_array
+end
