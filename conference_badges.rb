@@ -1,3 +1,3 @@
-def bade_maker{name}
+def badge_maker{name}
   return "Hello My "
 end
