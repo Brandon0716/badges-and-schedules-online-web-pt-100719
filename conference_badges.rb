@@ -1,1 +1,0 @@
-batch_badge_creator(badge) = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
